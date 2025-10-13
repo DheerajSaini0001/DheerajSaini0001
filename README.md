@@ -126,27 +126,7 @@
 
 </div>
 
-<!-- Animations -->
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: scale(0.96); }
-  100% { opacity: 1; transform: scale(1); }
-}
 
-@keyframes pulse {
-  0%, 100% { box-shadow: 0 0 5px #00FFFF; }
-  50% { box-shadow: 0 0 20px #00FFFF; }
-}
-
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
-
----
 
 ### 🤝 Connect With Me  
 <p align="center">
