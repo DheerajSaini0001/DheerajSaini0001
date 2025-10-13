@@ -70,11 +70,6 @@
 <h3>⚡ Developer Progress Dashboard ⚡</h3>
 
 <!-- Graph with glowing animated frame -->
-<div style="background: linear-gradient(90deg, #00FFFF, #0077FF, #FF00FF); padding: 3px; border-radius: 15px; display: inline-block; animation: gradientMove 6s ease infinite;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajsaini&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
-       width="100%"
-       style="border-radius: 12px; animation: fadeIn 2s ease-in-out, pulse 3s infinite ease-in-out;" />
-</div>
 
 <br><br>
 
