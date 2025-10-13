@@ -37,48 +37,60 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dheerajsaini&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsaini&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dheerajsaini&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsaini&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-### 🧮 GitHub Metrics  
+### 🌍 Contribution Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsaini&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsaini&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajsaini&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajsaini&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dheerajsaini&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajsaini&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dheerajsaini&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 🌈 Contribution Graph  
+### ⚡ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajsaini&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajsaini&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect with Me  
+### 🤝 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/dheerajsaini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dheeraj.saini@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dheerajsaini">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/dheerajsaini" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://dheerajsaini.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Thanks+for+visiting!+👋&fontSize=25&fontAlignY=40" />
 </p>
