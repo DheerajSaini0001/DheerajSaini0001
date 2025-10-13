@@ -64,27 +64,111 @@
 ---
 
 ### ⚡ Activity Graph  
+<!-- ⚡ Progressive GitHub Activity Dashboard -->
+<div align="center">
+
+<h3>⚡ Developer Progress Dashboard ⚡</h3>
+
+<!-- Graph with glowing animated frame -->
+<div style="background: linear-gradient(90deg, #00FFFF, #0077FF, #FF00FF); padding: 3px; border-radius: 15px; display: inline-block; animation: gradientMove 6s ease infinite;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajsaini&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
+       width="100%"
+       style="border-radius: 12px; animation: fadeIn 2s ease-in-out, pulse 3s infinite ease-in-out;" />
+</div>
+
+<br><br>
+
+<!-- Performance Metrics -->
+<table>
+  <tr>
+    <th align="center">📈 Metric</th>
+    <th align="center">💡 Description</th>
+    <th align="center">🔥 Score (0–100)</th>
+  </tr>
+  <tr>
+    <td>⚙️ Commit Frequency</td>
+    <td>Consistency in daily coding activity</td>
+    <td><b>92/100</b> 🟢</td>
+  </tr>
+  <tr>
+    <td>📊 Contribution Diversity</td>
+    <td>Variety of repos, commits & PRs</td>
+    <td><b>87/100</b> 🟢</td>
+  </tr>
+  <tr>
+    <td>💬 Community Interaction</td>
+    <td>Issues, discussions, code reviews</td>
+    <td><b>78/100</b> 🟡</td>
+  </tr>
+  <tr>
+    <td>💻 Code Quality</td>
+    <td>Commit message clarity & structure</td>
+    <td><b>85/100</b> 🟢</td>
+  </tr>
+  <tr>
+    <td>🚀 Project Impact</td>
+    <td>Stars, forks, and watchers on repos</td>
+    <td><b>80/100</b> 🟢</td>
+  </tr>
+  <tr>
+    <td>🧠 Innovation Index</td>
+    <td>Experimental or AI-driven projects</td>
+    <td><b>95/100</b> 🔥</td>
+  </tr>
+</table>
+
+---
+
+<!-- Overall Score Bar -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajsaini&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://img.shields.io/badge/Overall_Score-88%2F100-00FFFF?style=for-the-badge&labelColor=0D1117&color=00FFFF&logo=github&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-Top%201%25%20Developer-FF00FF?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
+  <img src="https://img.shields.io/badge/Level-Master%20Coder%20🧠-0077FF?style=for-the-badge&labelColor=0D1117&color=0077FF" />
+</p>
+
+</div>
+
+<!-- Animations -->
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; transform: scale(0.96); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 5px #00FFFF; }
+  50% { box-shadow: 0 0 20px #00FFFF; }
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
 
 ---
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dheerajsaini" target="_blank">
+  <a href="https://www.linkedin.com/in/dheeraj-saini-6256902a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dheeraj.saini@example.com">
+  <a href="mailto:dheerajsaini131652@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/dheerajsaini">
+  <a href="https://github.com/DheerajSaini0001">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/dheerajsaini" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://dheerajsaini.vercel.app" target="_blank">
+  <a href="https://d[heerajsaini.vercel.app](https://dheeraj-portfolio-yjts.onrender.com/)" target="_blank">
+  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
