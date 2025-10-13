@@ -28,31 +28,10 @@
 ### 🚀 My Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 **AI Readiness Auditor** | Website analysis tool that scores AI readiness (SEO, UX, automation) | Next.js, Puppeteer, Node.js |
-| 🔒 **CyberSec Analyzer** | Automated vulnerability & SSL audit | Express.js, Python, MongoDB |
+| 🧠 **Movie Website** | Website for downloading Movies and Web Series | MERN |
+| 🔒 **CyberSec Analyzer** | Automated vulnerability & SSL audit | Express.js, Node.js,React, MongoDB |
 | 💬 **ChatDeck** | Real-time chat app with user presence and notifications | MERN + Socket.IO + JWT |
 | 🌐 **Portfolio 2.0** | Minimal, animated personal website | React + Tailwind + Framer Motion |
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dheerajsaini&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsaini&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-### 🌍 Contribution Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dheerajsaini&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajsaini&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajsaini&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dheerajsaini&theme=tokyonight" />
-</p>
 
 ---
 
