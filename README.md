@@ -1,134 +1,92 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm Dheeraj Saini</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Building Scalable Web Apps | AI + Security Enthusiast</h3>
-
-<!-- Typing Animation -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Expert+⚛️;Cybersecurity+%26+AI+Readiness+🚀;Building+Smart+Web+Audit+Tools+🧠" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Dheeraj%20Saini&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI-Powered%20Web%20Tools&descSize=18&descAlignY=55" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Audit+%26+SEO+Tools;LLMs+%2B+Prompt+Engineering+Enthusiast;Clean+Code.+Real+Impact." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dheeraj-saini-6256902a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dheerajsaini131652@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://dheeraj-portfolio-yjts.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/dheerajsaini"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧩 About Me  
-- 💼 Working on **AI Readiness Site Audit Platform**  
-- 🌱 Learning **LLMs + Prompt Engineering + Advanced React Patterns**  
-- 💬 Ask me about **MERN, API Optimization, Performance Tuning, Security**  
-- 🧠 Passionate about **Automation, UX Simplification, and Clean Code**  
-- ⚡ Fun fact: I debug faster with coffee ☕  
+## 🧑‍💻 About Me
+
+```javascript
+const dheeraj = {
+  role: "Full Stack MERN Developer",
+  currentlyBuilding: "Auditify — a 7-pillar website health & SEO audit engine",
+  focus: ["AI-powered web tools", "Scalable web apps", "Automation"],
+  learning: ["LLMs", "Prompt Engineering", "Advanced React Patterns"],
+  askMeAbout: ["MERN", "API Optimization", "Web Performance", "Security"],
+  funFact: "I debug faster with coffee ☕",
+};
+```
+
+- 🔭 Currently building **[Auditify](https://github.com/DheerajSaini0001/Auditify)** — deep technical audits for Performance, SEO, Accessibility, Security, UX & AI-readiness
+- 🤖 Exploring the intersection of **web engineering and AI agents**
+- 💡 I care about **automation, UX simplification, and clean code**
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,python,java&perline=11" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma&perline=6" />
 </p>
 
 ---
 
-### 🚀 My Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧠 **Movie Website** | Website for downloading Movies and Web Series | MERN |
-| 🔒 **CyberSec Analyzer** | Automated vulnerability & SSL audit | Express.js, Node.js,React, MongoDB |
-| 💬 **ChatDeck** | Real-time chat app with user presence and notifications | MERN + Socket.IO + JWT |
-| 🌐 **Portfolio 2.0** | Minimal, animated personal website | React + Tailwind + Framer Motion |
+## 🚀 Featured Projects
 
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajsaini&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### ⚡ Activity Graph  
-<!-- ⚡ Progressive GitHub Activity Dashboard -->
-<div align="center">
-
-<h3>⚡ Developer Progress Dashboard ⚡</h3>
-
-<!-- Graph with glowing animated frame -->
-
-<br><br>
-
-<!-- Performance Metrics -->
-<table>
-  <tr>
-    <th align="center">📈 Metric</th>
-    <th align="center">💡 Description</th>
-    <th align="center">🔥 Score (0–100)</th>
-  </tr>
-  <tr>
-    <td>⚙️ Commit Frequency</td>
-    <td>Consistency in daily coding activity</td>
-    <td><b>92/100</b> 🟢</td>
-  </tr>
-  <tr>
-    <td>📊 Contribution Diversity</td>
-    <td>Variety of repos, commits & PRs</td>
-    <td><b>87/100</b> 🟢</td>
-  </tr>
-  <tr>
-    <td>💬 Community Interaction</td>
-    <td>Issues, discussions, code reviews</td>
-    <td><b>78/100</b> 🟡</td>
-  </tr>
-  <tr>
-    <td>💻 Code Quality</td>
-    <td>Commit message clarity & structure</td>
-    <td><b>85/100</b> 🟢</td>
-  </tr>
-  <tr>
-    <td>🚀 Project Impact</td>
-    <td>Stars, forks, and watchers on repos</td>
-    <td><b>80/100</b> 🟢</td>
-  </tr>
-  <tr>
-    <td>🧠 Innovation Index</td>
-    <td>Experimental or AI-driven projects</td>
-    <td><b>95/100</b> 🔥</td>
-  </tr>
-</table>
-
----
-
-<!-- Overall Score Bar -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Overall_Score-88%2F100-00FFFF?style=for-the-badge&labelColor=0D1117&color=00FFFF&logo=github&logoColor=white" />
-</p>
+| Project | What it does | Tech |
+|---------|--------------|------|
+| 🔍 **[Auditify](https://github.com/DheerajSaini0001/Auditify)** | Production-ready website audit engine — Core Web Vitals, SEO, Accessibility (WCAG 2.1), Security, UX, AI-readiness & Conversion analysis | MERN · Browser Automation · axe-core |
+| 🤖 **[claude-seo](https://github.com/DheerajSaini0001/claude-seo)** | Universal SEO skill for Claude Code — 25 sub-skills & 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO & more | Claude Code · AI Agents |
+| 📄 **[TalentIQ](https://github.com/DheerajSaini0001/TalentIQ)** | AI-powered, ATS-friendly resume builder with real-time preview, design themes & PDF export | MERN · OpenAI · Passport.js · Cloudinary |
+| ✒️ **[Alfaaz](https://github.com/DheerajSaini0001/Alfaaz)** | AI shayari (poetry) platform — generate, share & explore couplets; web + mobile with a glassmorphism UI | MERN · React Native · Framer Motion |
+| 💬 **[Chats](https://github.com/DheerajSaini0001/Chats)** | Real-time chat app with user presence & notifications | MERN · Socket.IO · JWT |
+| 🚗 **[Drivon](https://github.com/DheerajSaini0001/Drivon)** | Full-stack car rental platform with booking flow | MERN |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-Top%201%25%20Developer-FF00FF?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
-  <img src="https://img.shields.io/badge/Level-Master%20Coder%20🧠-0077FF?style=for-the-badge&labelColor=0D1117&color=0077FF" />
-</p>
-
-</div>
-
-
-
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/dheeraj-saini-6256902a9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dheerajsaini131652@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DheerajSaini0001">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/dheerajsaini" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://dheeraj-portfolio-yjts.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  
+  <a href="https://github.com/DheerajSaini0001?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Thanks+for+visiting!+👋&fontSize=25&fontAlignY=40" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DheerajSaini0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajSaini0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DheerajSaini0001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DheerajSaini0001&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DheerajSaini0001&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=24&fontColor=ffffff&fontAlignY=70" />
 </p>
