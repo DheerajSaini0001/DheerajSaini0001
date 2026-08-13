@@ -30,7 +30,7 @@
 ```javascript
 const dheeraj = {
   role: "Full Stack MERN Developer",
-  currentlyBuilding: "Auditify 🔍",
+  currentlyBuilding: "Auditify 🔍","MotoGurus🚗",
   focus: ["AI-powered web tools",
           "Scalable web apps"],
   learning: ["LLMs", "Prompt Engineering",
